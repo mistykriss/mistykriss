@@ -1,16 +1,12 @@
-## Hi there 👋
+💫 About Me:
+Привет, 👋
 
-<!--
-**mistykriss/mistykriss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий веб-разработчик (Junior).
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 В настоящее время я активно развиваюсь в сфере Web-разработки (Frontend / Backend) и создаю свои первые проекты.
+- 🛠 Мой стек технологий: JavaScript, React, Python, C#, а также работа с базами данных.
+- 📫 Свяжитесь со мной: mistkriss@gmail.com, Telegram: @kristass17.
+- 📍 Место жительства: г. Москва, Россия.
+- ⚡ Начинала с Python ради автоматизации, а в итоге влюбилась в создание интерфейсов на React 😅.
+💻 Tech Stack:
+JavaScript Java C# Dart HTML5 .Net MySQL SQLite MicrosoftSQLServer
