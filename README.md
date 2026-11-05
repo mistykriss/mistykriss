@@ -8,5 +8,6 @@
 - 📫 Свяжитесь со мной: mistkriss@gmail.com, Telegram: @kristass17.
 - 📍 Место жительства: г. Москва, Россия.
 - ⚡ Начинала с Python ради автоматизации, а в итоге влюбилась в создание интерфейсов на React 😅.
+
 💻 Tech Stack:
 JavaScript Java C# Dart HTML5 .Net MySQL SQLite MicrosoftSQLServer
